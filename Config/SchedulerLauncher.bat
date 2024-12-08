@@ -1,0 +1,3 @@
+@echo off
+echo Launching DynamicCommand...
+schtasks /run /tn "DynamicMacro"

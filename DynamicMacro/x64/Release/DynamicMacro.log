@@ -1,0 +1,20 @@
+﻿  InputReader.cpp
+D:\Repositories\DynamicMacro\DynamicMacro\Logger.h(8,1): warning C4005: 'NDEBUG': macro redefinition
+D:\Repositories\DynamicMacro\DynamicMacro\Logger.h(8,1): message : 'NDEBUG' previously declared on the command line
+  InputWriter.cpp
+D:\Repositories\DynamicMacro\DynamicMacro\Logger.h(8,1): warning C4005: 'NDEBUG': macro redefinition
+D:\Repositories\DynamicMacro\DynamicMacro\Logger.h(8,1): message : 'NDEBUG' previously declared on the command line
+  Logger.cpp
+D:\Repositories\DynamicMacro\DynamicMacro\Logger.h(8,1): warning C4005: 'NDEBUG': macro redefinition
+D:\Repositories\DynamicMacro\DynamicMacro\Logger.h(8,1): message : 'NDEBUG' previously declared on the command line
+  main.cpp
+D:\Repositories\DynamicMacro\DynamicMacro\Logger.h(8,1): warning C4005: 'NDEBUG': macro redefinition
+D:\Repositories\DynamicMacro\DynamicMacro\Logger.h(8,1): message : 'NDEBUG' previously declared on the command line
+  PathGenerator.cpp
+D:\Repositories\DynamicMacro\DynamicMacro\Logger.h(8,1): warning C4005: 'NDEBUG': macro redefinition
+D:\Repositories\DynamicMacro\DynamicMacro\Logger.h(8,1): message : 'NDEBUG' previously declared on the command line
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 297 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DynamicMacro.vcxproj -> D:\Repositories\DynamicMacro\x64\Release\DynamicMacro.exe
