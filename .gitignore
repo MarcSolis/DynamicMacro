@@ -34,3 +34,7 @@
 #Folders
 Saved/Commands/*
 Saved/Logs/*
+
+#Exceptions
+!Saved/Commands/.gitKeep
+!Saved/Logs/.gitKeep
